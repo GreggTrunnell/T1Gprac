@@ -1,8 +1,9 @@
 header{
-    color: rgb(53, 143, 53); font-size: 100px;}
+    color: rgb(53, 143, 53); font-size: 100px; float: left}
 
 body{
-    background-color: rgb(25, 25, 136);}
+    background-color: rgb(25, 25, 136);
+}
 
 
 h1{
