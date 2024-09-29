@@ -11,8 +11,11 @@ h1{
     padding: 25px;}
 
 h2{
-    font-size: 35px;   border: 20px solid rgb(69, 14, 14); padding: 25px;
-    margin: 50px; font-family: papyrus; }
+    font-size: 35px;    
+    margin: 30px; font-family: papyrus; }
+.gammonpic{border: 20px solid rgb(69, 14, 14);
+
+}
 
 h3{
     font-size: 35px; }
@@ -26,7 +29,7 @@ h5{
 }
 
 .zeldaimg{
-    width: 200px; length: 200px
+    width: 200px; 
 }
 
 
