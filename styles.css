@@ -36,7 +36,10 @@ h5{
     width: 200px; 
 }
 
-
+table{ 
+    font-family: gill sans;
+    border: 10px solid black;
+}
 
 a{
     font-size: 30px; 
